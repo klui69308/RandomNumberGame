@@ -1,0 +1,10 @@
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\bin\Debug\Assignment10.exe.config
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\bin\Debug\Assignment10.exe
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\bin\Debug\Assignment10.pdb
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.csprojAssemblyReference.cache
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.Assignment10_Lui.resources
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.cache
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.CoreCompileInputs.cache
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.exe
+D:\Education\Bellevue University\Math Major\2020 - 2021\2020 Winter\CIS 335\Week 10\Assignment10\Assignment10\obj\Debug\Assignment10.pdb
